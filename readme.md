@@ -56,9 +56,10 @@ Estimated Time: 10 mins
 Drop outliers and save final data to 'docs_vector_final.csv'.
 
 
-### K-Means Clustering and Post-Visualization: K-Means.ipynb
+### K-Means Clustering and Post-Visualization: K-Means-scratch.ipynb
 
 K-Means Clustering for K = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10). Post-visualization of labels assigned to docs and distribution of docs in each cluster. Also shows the SSE Profile for different values of K.
-
+### K-Means Clustering and Post-Visualization: K-Means-sklearn.ipynb
+K-Means Clustering using scikit learn.
 ## Author:
 Khagendra Adhikari
